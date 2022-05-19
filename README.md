@@ -1,24 +1,21 @@
-# PROJETO – NODEESTAGIODIEGODENIS
+# RESTful Web Services with Node
 
 ## 🚀 O desafio
 
-O desafio técnico consiste em desenvolver uma API para fazer um crud (criar, ler, atualizar, deletar) de Tarefas.
+Projeto desenvolvido para o curso Scrum&Xp da Coursera
 
-## :crystal_ball: Tecnologias
+## Tecnologias
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
--   [NodeJs]
--   [TypeScript]
--   [Postgress]
--   [Docker]
+- [NodeJs]
 
-## :arrow_forward: Instalação e uso
+## Instalação e uso
 
 Clone o repositório
 
 ```bash
-git clone https://deniscoelho-js@bitbucket.org/deniscoelho1/nodeestagiodiegodenis.git
+git clone https://github.com/deniscoelho-js/RESTful-Web-Services-with-Node.git
 
 ```
 
@@ -32,7 +29,7 @@ $ npm i or yarn
 $ npm run dev or yarn dev
 ```
 
-## ✨ Desenvolvimento
+<!-- ## ✨ Desenvolvimento
 
 O projeto foi desenvolvido utilizando _Docker_ e _Postgres_ para a parte de banco de dados e _typeORM_ como ferramenta de ORM.
 
@@ -42,4 +39,4 @@ Foram criados 2 entidades para todo o projeto, um usuário com o campo nome e a 
 
 > Neste projeto foi utilizado a ferramenta TypeORM.
 >
-> O TypeORM é um ORM que pode ser utilizado em plataformas como o Node, Ionic, dentre outras, e que possibilita o desenvolvimento tanto com JavaScript como com TypeScript. O TypeORM foi inspirado no Hibernate e Entity Framework, oferece suporte a Decorators e trabalha com bancos de dados como PostgreSQL, Microsoft SQL Server, e atualmente com MongoDB de forma experimental.
+> O TypeORM é um ORM que pode ser utilizado em plataformas como o Node, Ionic, dentre outras, e que possibilita o desenvolvimento tanto com JavaScript como com TypeScript. O TypeORM foi inspirado no Hibernate e Entity Framework, oferece suporte a Decorators e trabalha com bancos de dados como PostgreSQL, Microsoft SQL Server, e atualmente com MongoDB de forma experimental. -->
