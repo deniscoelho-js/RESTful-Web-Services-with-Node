@@ -1,14 +1,25 @@
 # RESTful Web Services with Node
 
-## 🚀 O desafio
+## Projeto
 
-Projeto desenvolvido para a plataforma Coursera
+Projeto desenvolvido para a plataforma Coursera. Foi implementado a estrutura Mocha
+para teste do código.
+
+## Funcionalidades
+
+- [x] GET
+- [x] POST
+- [x] PUT
+- [x] PATCH
+- [x] DELETE
 
 ## Tecnologias
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [x] NodeJs
+- [x] Express
+- [x] MongoDB
 
 ## Instalação e uso
 
@@ -28,15 +39,3 @@ $ npm i or yarn
 # Inicie o servidor
 $ npm run dev or yarn dev
 ```
-
-<!-- ## ✨ Desenvolvimento
-
-O projeto foi desenvolvido utilizando _Docker_ e _Postgres_ para a parte de banco de dados e _typeORM_ como ferramenta de ORM.
-
-Foram criados 2 entidades para todo o projeto, um usuário com o campo nome e a tarefa com os campos: nome da tarefa, conteúdo e data de criação.
-
-### ORM TypeORM
-
-> Neste projeto foi utilizado a ferramenta TypeORM.
->
-> O TypeORM é um ORM que pode ser utilizado em plataformas como o Node, Ionic, dentre outras, e que possibilita o desenvolvimento tanto com JavaScript como com TypeScript. O TypeORM foi inspirado no Hibernate e Entity Framework, oferece suporte a Decorators e trabalha com bancos de dados como PostgreSQL, Microsoft SQL Server, e atualmente com MongoDB de forma experimental. -->
