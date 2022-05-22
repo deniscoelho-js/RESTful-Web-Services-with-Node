@@ -2,13 +2,13 @@
 
 ## 🚀 O desafio
 
-Projeto desenvolvido para o curso Scrum&Xp da Coursera
+Projeto desenvolvido para a plataforma Coursera
 
 ## Tecnologias
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [NodeJs]
+- [NodeJs]()
 
 ## Instalação e uso
 
