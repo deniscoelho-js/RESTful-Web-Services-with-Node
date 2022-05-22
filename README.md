@@ -8,7 +8,7 @@ Projeto desenvolvido para a plataforma Coursera
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-[x] NodeJs
+- [x] NodeJs
 
 ## Instalação e uso
 
